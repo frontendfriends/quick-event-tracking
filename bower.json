@@ -1,9 +1,10 @@
 {
   "name": "quick-event-tracking",
   "version": "0.8.0",
-  "homepage": "https://github.com/buildingblocks/Quick-Event-Tracking",
+  "homepage": "https://github.com/frontendfriends/Quick-Event-Tracking",
   "authors": [
-    "Robert Stevenson-Leggett <r.leggett@building-blocks.com>"
+    "Robert Stevenson-Leggett <r.leggett@building-blocks.com>",
+    "Daniel Furze <d.furze@building-blocks.com>"
   ],
   "description": "A jQuery plugin that tries to standardise and simplify the way event tracking is implemented within a project",
   "main": "jquery.building-blocks.googleanalytics.js",
